@@ -6,7 +6,3 @@
                           ██║███████╗    ██████╔╝███████╗██║██║ ╚████║██████╔╝
                           ╚═╝╚══════╝    ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝╚═════╝ 
 </pre>
-<!--
-Text To Ascii (참고)
-https://patorjk.com/software/taag/#p=display&h=1&v=1&f=ANSI%20Shadow&t=42%20blind 
--->
